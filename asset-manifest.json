@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/wisteria/static/css/main.75f737ba.chunk.css",
+    "main.js": "/wisteria/static/js/main.f9377dff.chunk.js",
+    "main.js.map": "/wisteria/static/js/main.f9377dff.chunk.js.map",
+    "runtime-main.js": "/wisteria/static/js/runtime-main.b0e4e32f.js",
+    "runtime-main.js.map": "/wisteria/static/js/runtime-main.b0e4e32f.js.map",
+    "static/js/2.b381bd76.chunk.js": "/wisteria/static/js/2.b381bd76.chunk.js",
+    "static/js/2.b381bd76.chunk.js.map": "/wisteria/static/js/2.b381bd76.chunk.js.map",
+    "static/js/3.9c07b934.chunk.js": "/wisteria/static/js/3.9c07b934.chunk.js",
+    "static/js/3.9c07b934.chunk.js.map": "/wisteria/static/js/3.9c07b934.chunk.js.map",
+    "index.html": "/wisteria/index.html",
+    "static/css/main.75f737ba.chunk.css.map": "/wisteria/static/css/main.75f737ba.chunk.css.map",
+    "static/js/2.b381bd76.chunk.js.LICENSE.txt": "/wisteria/static/js/2.b381bd76.chunk.js.LICENSE.txt",
+    "static/media/background.319928ec.jpg": "/wisteria/static/media/background.319928ec.jpg",
+    "static/media/logo.8085e74f.png": "/wisteria/static/media/logo.8085e74f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0e4e32f.js",
+    "static/js/2.b381bd76.chunk.js",
+    "static/css/main.75f737ba.chunk.css",
+    "static/js/main.f9377dff.chunk.js"
+  ]
+}
