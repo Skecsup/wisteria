@@ -6,6 +6,7 @@
   align-items: center;
   padding: 10px;
   font-family: Arial, Helvetica, sans-serif;
+  color: #997cd6;
 }
 
 .aboutus_title {
@@ -16,9 +17,18 @@
 }
 
 .aboutus_para {
-  color: #997cd6;
   text-align: justify;
   padding: 10px;
+  margin-bottom: 20px;
+}
+
+.aboutus_info {
+  margin: 20px;
+  font-size: 25px;
+  text-align: justify;
+  padding: 10px;
+  border: 1px solid #997cd6;
+  border-radius: 20px;
 }
 
 .aboutus_image {

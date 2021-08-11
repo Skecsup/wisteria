@@ -2,7 +2,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #eee;
+  background: linear-gradient(#ccc, white);
 }
 
 .navbar_logo {
