@@ -1,0 +1,29 @@
+.product {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 25px;
+  background: linear-gradient(45deg, #997cd6, white);
+}
+
+.product_image {
+  border-radius: 25px;
+}
+
+.product_button {
+  color: #997cd6;
+  background: white;
+  border: none;
+  border-radius: 25px;
+  transition: box-shadow 0.4s;
+}
+
+.product_button:hover {
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.459);
+}
+
+.product_price {
+  padding: 5px;
+}

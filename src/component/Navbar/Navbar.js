@@ -26,10 +26,20 @@ const Navbar = () => {
           >
             About Us
           </NavLink>
-          <NavLink className="navbar_items" activeClassName="active" to="/">
+          <NavLink
+            className="navbar_items"
+            exact
+            activeClassName="selected"
+            to="/shop"
+          >
             Shop
           </NavLink>
-          <NavLink className="navbar_items" activeClassName="active" to="/">
+          <NavLink
+            className="navbar_items"
+            exact
+            activeClassName="selected"
+            to="/basket"
+          >
             Basket
           </NavLink>
         </div>
